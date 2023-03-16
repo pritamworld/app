@@ -14,3 +14,8 @@
 - docker ps
 - docker ps --all
 - docker rm add7d34d6491
+
+# References
+- https://www.digitalocean.com/community/tags/docker
+- https://docs.docker.com/engine/reference/builder/
+- https://www.digitalocean.com/community/tutorials/how-to-build-a-node-js-application-with-docker
